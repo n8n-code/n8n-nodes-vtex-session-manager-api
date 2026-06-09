@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-vtex-session-manager-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This documentation goes in detail how to interact with Session Manager's API. For a more top-level approach, check the [design documentation](https://help.vtex.com/tutorial/using-session-manager-to..",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-vtex-session-manager-api",

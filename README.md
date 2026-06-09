@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Sessions | GET Get Session, PATCH Edit session, POST Create new session |
-| Segment | GET Get Segment |
+| Sessions | Get session, Patch edit session, Post create new session |
+| Segment | Get segment |
 
 ---
 
